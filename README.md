@@ -12,12 +12,6 @@ Labels: [List of emotions, e.g., Happy, Sad, Angry, Neutral]
 
 Format: CSV 
 
- <h2>📊 Sample Data</h2>
- Text	Emotion
- -  "I am so happy today!"	Joy
- -  "This is frustrating!"	Anger
- -   "I feel lonely and lost."	Sadness
-
 <h2>🚀 Applications</h2>
 Sentiment analysis (positive, negative, neutral classification)
 
